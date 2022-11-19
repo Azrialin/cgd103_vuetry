@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_test_cmd"]=self["webpackChunkvue_test_cmd"]||[]).push([[936],{5936:function(e,n,t){t.r(n),t.d(n,{default:function(){return d}});var s=t(3396);const u={class:"about"},o=(0,s._)("h1",null,"This is news page",-1);function c(e,n,t,c,l,r){const a=(0,s.up)("HelloWorld");return(0,s.wg)(),(0,s.iD)("div",u,[o,(0,s.Wm)(a,{title:"nani1",msg:"Welcome to Your Vue.js App"})])}var l=t(6973),r={name:"NewsView",components:{HelloWorld:l.Z}},a=t(89);const i=(0,a.Z)(r,[["render",c]]);var d=i}}]);
+//# sourceMappingURL=936.4d4d1be5.js.map
